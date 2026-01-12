@@ -3,3 +3,4 @@
 .DS_store
 *.OTTER_LOG
 *.git
+.venv
